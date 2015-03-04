@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC211: Introduction to International Relations"
+course_description: "An introduction to the fundamental principles of international relations within the political science framework, exploring issues related to the politics and ethics of global welfare, war, world poverty, disease, trade policy, environmental concerns, human rights, and terrorism."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: International Organizations and Law** <span id="6"></span> 
 *This unit will examine major international organizations, focusing in
 particular on the United Nations (UN) and its goals, membership, and

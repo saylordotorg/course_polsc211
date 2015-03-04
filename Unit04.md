@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC211: Introduction to International Relations"
+course_description: "An introduction to the fundamental principles of international relations within the political science framework, exploring issues related to the politics and ethics of global welfare, war, world poverty, disease, trade policy, environmental concerns, human rights, and terrorism."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: International Conflict** <span id="4"></span> 
 *In this unit, we will take a closer look at war as a means of resolving
 conflict. We will examine war from both a Realist’s and a Liberalist’s

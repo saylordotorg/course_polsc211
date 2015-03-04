@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC211: Introduction to International Relations"
+course_description: "An introduction to the fundamental principles of international relations within the political science framework, exploring issues related to the politics and ethics of global welfare, war, world poverty, disease, trade policy, environmental concerns, human rights, and terrorism."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Weapons Proliferation and Arms Control** <span id="5"></span> 
 *This unit will examine the increase of arms and weapons of mass
 destruction (WMD) following global instability and inequity of power in

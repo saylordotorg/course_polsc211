@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC211: Introduction to International Relations"
+course_description: "An introduction to the fundamental principles of international relations within the political science framework, exploring issues related to the politics and ethics of global welfare, war, world poverty, disease, trade policy, environmental concerns, human rights, and terrorism."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: International Trade** <span id="7"></span> 
 *This unit will explore international trade and the effects of
 globalization. We will learn about the concept of free trade, tariffs,

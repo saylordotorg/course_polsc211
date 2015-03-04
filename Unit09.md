@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC211: Introduction to International Relations"
+course_description: "An introduction to the fundamental principles of international relations within the political science framework, exploring issues related to the politics and ethics of global welfare, war, world poverty, disease, trade policy, environmental concerns, human rights, and terrorism."
+next: ../Unit10
+previous: ../Unit08
+---
 **Unit 9: The European Union** <span id="9"></span> 
 *In this unit, we will look at the evolution of the European Union (EU),
 an example of “transnational community formation” according to Professor

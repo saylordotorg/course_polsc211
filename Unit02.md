@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC211: Introduction to International Relations"
+course_description: "An introduction to the fundamental principles of international relations within the political science framework, exploring issues related to the politics and ethics of global welfare, war, world poverty, disease, trade policy, environmental concerns, human rights, and terrorism."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: International Relations Theories** <span id="2"></span> 
 *This unit examines the theories used to understand international
 relations: the two primary theories are realism and liberalism. Realism

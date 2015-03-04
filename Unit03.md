@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC211: Introduction to International Relations"
+course_description: "An introduction to the fundamental principles of international relations within the political science framework, exploring issues related to the politics and ethics of global welfare, war, world poverty, disease, trade policy, environmental concerns, human rights, and terrorism."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Foreign Policy** <span id="3"></span> 
 *This unit will introduce you to US foreign policy, beginning with the
 end of the Cold War. We will look at concepts like “unipolarity,”
