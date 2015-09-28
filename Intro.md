@@ -157,3 +157,4 @@ guide in preparation for your Final Exam. 
 - [Unit 8](https://legacy.saylor.org/polsc211/Unit08/)
 - [Unit 9](https://legacy.saylor.org/polsc211/Unit09/)
 - [Unit 10](https://legacy.saylor.org/polsc211/Unit10/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/POLSC/POLSC211/POLSC211-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/POLSC/POLSC211/POLSC211-FinalExam-Answers.html)
