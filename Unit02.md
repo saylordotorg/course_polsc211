@@ -180,7 +180,7 @@ sub-subunit 2.1.1.*
     Link: Middle East Studies Online Journal: Henry U.
     Ufombo’s [“Collective Security or The Security of The Hegemony: The
     United States Policy in The Middle East and The Two Gulf
-    Wars”](http://www.middle-east-studies.net/?p=6242) (HTML)  
+    Wars”](https://web.archive.org/web/20120413114253/http://www.middle-east-studies.net/?p=6242) (HTML)  
       
      Instructions: This article offers a strong critique of U.S. foreign
     policy in Iraq in two Gulf Wars. As you read, focus on the author’s
