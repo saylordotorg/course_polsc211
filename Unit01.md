@@ -67,9 +67,9 @@ Upon successful completion of this unit, you will be able to:
 -   **Reading: University of Indiana: Professor Randall Baker’s
     “Challenges to Traditional Concepts of Sovereignty”**
     Link: University of Indiana: Professor Randall
-    Baker’s [“](http://classwebs.spea.indiana.edu/bakerr/challenges_to_sovereignty.htm)[Challenges
+    Baker’s [“](https://web.archive.org/web/20141229212047/http://classwebs.spea.indiana.edu/bakerr/challenges_to_sovereignty.htm)[Challenges
     to Traditional Concepts of
-    Sovereignty](http://classwebs.spea.indiana.edu/bakerr/challenges_to_sovereignty.htm)[”](http://classwebs.spea.indiana.edu/bakerr/challenges_to_sovereignty.htm) (HTML)  
+    Sovereignty](http://classwebs.spea.indiana.edu/bakerr/challenges_to_sovereignty.htm)[”](https://web.archive.org/web/20141229212047/http://classwebs.spea.indiana.edu/bakerr/challenges_to_sovereignty.htm) (HTML)  
       
      Instructions: Read this webpage to learn about adversity facing the
     concept of sovereignty.  
