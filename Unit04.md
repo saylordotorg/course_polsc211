@@ -205,9 +205,9 @@ beneath subunit 4.3.*
 -   **Assessment: The Saylor Foundation's “Unit 4 Assessment” and “Unit
     4 Sample Essay”**
     Link: The Saylor Foundation's [“Unit 4
-    Assessment”](http://www.saylor.org/site/wp-content/uploads/2012/11/POLSC211-Unit4Assessment-FINAL.pdf) (PDF)
+    Assessment”](https://resources.saylor.org/archived/wp-content/uploads/2012/11/POLSC211-Unit4Assessment-FINAL.pdf) (PDF)
     and [“Unit 4 Sample
-    Essay”](http://www.saylor.org/site/wp-content/uploads/2012/11/POLSC211-Unit4Assessment-Sample-Essay-FINAL.pdf) (PDF)  
+    Essay”](https://resources.saylor.org/archived/wp-content/uploads/2012/11/POLSC211-Unit4Assessment-Sample-Essay-FINAL.pdf) (PDF)  
         
      Instructions: Complete this “Unit 4 Assessment.”  After you have
     completed the Assessment, check your response against the “Unit 4
@@ -253,10 +253,10 @@ beneath subunit 4.3.*
       
      When you have finished writing, please compare your paper to the
     Saylor Foundation's
-    [“](http://www.saylor.org/site/wp-content/uploads/2012/02/POLSC211-Unit-4-Conflict-and-Conflict-Resolution-FINAL.pdf)</span>[<span
+    [“](https://resources.saylor.org/archived/wp-content/uploads/2012/02/POLSC211-Unit-4-Conflict-and-Conflict-Resolution-FINAL.pdf)</span>[<span
     lang="EN">Conflict and Conflict Resolution: Sample
-    Paper</span>](http://www.saylor.org/site/wp-content/uploads/2012/02/POLSC211-Unit-4-Conflict-and-Conflict-Resolution-FINAL.pdf)<span
-    lang="EN">[”](http://www.saylor.org/site/wp-content/uploads/2012/02/POLSC211-Unit-4-Conflict-and-Conflict-Resolution-FINAL.pdf).
+    Paper</span>](https://resources.saylor.org/archived/wp-content/uploads/2012/02/POLSC211-Unit-4-Conflict-and-Conflict-Resolution-FINAL.pdf)<span
+    lang="EN">[”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/POLSC211-Unit-4-Conflict-and-Conflict-Resolution-FINAL.pdf).
     Be sure your content is similar to the content in the sample paper,
     to be sure you are getting the most important information from the
     material you are covering. Also, read your paper out loud to be sure
