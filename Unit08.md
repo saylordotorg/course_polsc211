@@ -75,7 +75,7 @@ id="8.1.1"></span> 
     Resources and Economic Growth: What Is the Connection?”**
     Link: University of Connecticut: Thorvaldur Gylfason’s [“Natural
     Resources and Economic Growth: What Is the
-    Connection?”](http://www.saylor.org/site/wp-content/uploads/2010/12/GylfasonNationalResources.pdf) (PDF)  
+    Connection?”](https://resources.saylor.org/archived/wp-content/uploads/2010/12/GylfasonNationalResources.pdf) (PDF)  
         
      Instructions: Read this article.  
         

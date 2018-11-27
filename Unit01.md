@@ -74,9 +74,9 @@ Upon successful completion of this unit, you will be able to:
 -   **Reading: University of Indiana: Professor Randall Baker’s
     “Challenges to Traditional Concepts of Sovereignty”**
     Link: University of Indiana: Professor Randall
-    Baker’s [“](http://classwebs.spea.indiana.edu/bakerr/challenges_to_sovereignty.htm)[Challenges
+    Baker’s [“](https://web.archive.org/web/20141229212047/http://classwebs.spea.indiana.edu/bakerr/challenges_to_sovereignty.htm)[Challenges
     to Traditional Concepts of
-    Sovereignty](http://classwebs.spea.indiana.edu/bakerr/challenges_to_sovereignty.htm)[”](http://classwebs.spea.indiana.edu/bakerr/challenges_to_sovereignty.htm) (HTML)  
+    Sovereignty](http://classwebs.spea.indiana.edu/bakerr/challenges_to_sovereignty.htm)[”](https://web.archive.org/web/20141229212047/http://classwebs.spea.indiana.edu/bakerr/challenges_to_sovereignty.htm) (HTML)  
       
      Instructions: Read this webpage to learn about adversity facing the
     concept of sovereignty.  
@@ -214,13 +214,13 @@ sub-subunit 1.4.1.**
 -   **Activity: The Saylor Foundation’s “Understanding General
     Concepts”**
     Link: The Saylor Foundation’s [“Understanding General
-    Concepts”](http://www.saylor.org/site/wp-content/uploads/2012/10/POLSC211-Unit-1-Activity-Understanding-General-Concepts-FINAL.pdf)
+    Concepts”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/POLSC211-Unit-1-Activity-Understanding-General-Concepts-FINAL.pdf)
     (PDF)  
         
      Instructions: Complete the attached activity. Check your answers
     against the Saylor Foundation’s [“Understanding General Concepts –
     Answer
-    Key”](http://www.saylor.org/site/wp-content/uploads/2012/10/POLSC211-Unit-1-Activity-Understanding-General-Concepts-Answer-Key-FINAL.pdf)
+    Key”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/POLSC211-Unit-1-Activity-Understanding-General-Concepts-Answer-Key-FINAL.pdf)
     (PDF) when you are finished.  
         
      Completing this activity should take approximately 1 hour.

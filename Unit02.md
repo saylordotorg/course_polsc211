@@ -187,7 +187,7 @@ sub-subunit 2.1.1.*
     Link: Middle East Studies Online Journal: Henry U.
     Ufombo’s [“Collective Security or The Security of The Hegemony: The
     United States Policy in The Middle East and The Two Gulf
-    Wars”](http://www.middle-east-studies.net/?p=6242) (HTML)  
+    Wars”](https://web.archive.org/web/20120413114253/http://www.middle-east-studies.net/?p=6242) (HTML)  
       
      Instructions: This article offers a strong critique of U.S. foreign
     policy in Iraq in two Gulf Wars. As you read, focus on the author’s
@@ -260,12 +260,12 @@ sub-subunit 2.1.1.*
 -   **Activity: The Saylor Foundation’s “Understanding Theoretical
     Lenses”**
     Link: The Saylor Foundation’s [“Understanding Theoretical
-    Lenses”](http://www.saylor.org/site/wp-content/uploads/2012/10/POLSC211-Unit-2-Activity-Understanding-Theoretical-Lenses-FINAL.pdf)
+    Lenses”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/POLSC211-Unit-2-Activity-Understanding-Theoretical-Lenses-FINAL.pdf)
     (PDF)  
         
      Instructions: Complete this activity. Check your answers against
     the Saylor Foundation’s [“Understanding Theoretical Lenses – Answer
-    Key”](http://www.saylor.org/site/wp-content/uploads/2012/10/POLSC211-Unit-2-Activity-Understanding-Theoretical-Lenses-Answer-Key-FINAL.pdf)
+    Key”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/POLSC211-Unit-2-Activity-Understanding-Theoretical-Lenses-Answer-Key-FINAL.pdf)
     (PDF) when you are finished.  
         
      Completing this activity should take approximately 1 hour.
@@ -274,15 +274,15 @@ sub-subunit 2.1.1.*
     Theoretical Lenses”**
     Link: The Saylor Foundation’s [“Understanding and Applying
     Theoretical
-    Lenses”](http://www.saylor.org/site/wp-content/uploads/2012/10/POLSC211-Unit-2-Assessment-Understanding-and-Applying-Theoretical-Lenses-FINAL.pdf)
+    Lenses”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/POLSC211-Unit-2-Assessment-Understanding-and-Applying-Theoretical-Lenses-FINAL.pdf)
     (PDF)  
         
      Instructions: Complete this assessment. Check your response against
     the Saylor Foundation’s [“Understanding and Applying Theoretical
     Lenses –
-    Rubric”](http://www.saylor.org/site/wp-content/uploads/2012/10/POLSC211-Unit-2-Assessment-Understanding-and-Applying-Theoretical-Lenses-Rubric-FINAL.pdf)
+    Rubric”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/POLSC211-Unit-2-Assessment-Understanding-and-Applying-Theoretical-Lenses-Rubric-FINAL.pdf)
     (PDF) and [“Understanding and Applying Theoretical Lenses – Sample
-    Essay”](http://www.saylor.org/site/wp-content/uploads/2012/10/POLSC211-Unit-2-Assessment-Understanding-and-Applying-Theoretical-Lenses-Sample-Essay-FINAL.pdf)
+    Essay”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/POLSC211-Unit-2-Assessment-Understanding-and-Applying-Theoretical-Lenses-Sample-Essay-FINAL.pdf)
     (PDF) when you are finished.  
         
      Completing this activity should take approximately 2 hours.
