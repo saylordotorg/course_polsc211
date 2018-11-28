@@ -85,9 +85,9 @@ Upon successful completion of this unit, you will be able to:
     Evaluating the Controversy between Free Trade and Protectionism”**
     Link: *International Trade: Theory and Policy*: [“Chapter 10:
     Political Economy and International
-    Trade”](https://resources.saylor.org/archived/textbooks/International%20Trade%20-%20Theory%20and%20Policy.pdf) (PDF)
+    Trade”](https://resources.saylor.org/wwwresources/archived/site/textbooks/International%20Trade%20-%20Theory%20and%20Policy.pdf) (PDF)
     and [“Chapter 11: Evaluating the Controversy between Free Trade and
-    Protectionism”](https://resources.saylor.org/archived/textbooks/International%20Trade%20-%20Theory%20and%20Policy.pdf) (PDF)  
+    Protectionism”](https://resources.saylor.org/wwwresources/archived/site/textbooks/International%20Trade%20-%20Theory%20and%20Policy.pdf) (PDF)  
         
      Instructions: Read both these chapters. In these two chapters,
     Suranovic outlines the political economy components of international

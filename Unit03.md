@@ -211,9 +211,9 @@ Upon successful completion of this unit, you will be able to:
 -   **Reading: The White House: Office of Press Secretary’s “U.S.-Russia
     Relations: ‘Reset’ Fact Sheet”**
     Link: The White House: Office of Press
-    Secretary’s [“](https://resources.saylor.org/archived/wp-content/uploads/2010/12/White-House-US-Russia-Relations.pdf)[U.S.-Russia
+    Secretary’s [“](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2010/12/White-House-US-Russia-Relations.pdf)[U.S.-Russia
     Relations: ‘Reset’ Fact
-    Sheet](https://resources.saylor.org/archived/wp-content/uploads/2010/12/White-House-US-Russia-Relations.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2010/12/White-House-US-Russia-Relations.pdf) (PDF)  
+    Sheet](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2010/12/White-House-US-Russia-Relations.pdf)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2010/12/White-House-US-Russia-Relations.pdf) (PDF)  
         
      Instructions: Learn more about the “reset” on U.S.-Russia relations
     by clicking on the link above. The press release from The White
