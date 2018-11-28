@@ -207,13 +207,13 @@ sub-subunit 1.4.1.**
 -   **Activity: The Saylor Foundation’s “Understanding General
     Concepts”**
     Link: The Saylor Foundation’s [“Understanding General
-    Concepts”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/POLSC211-Unit-1-Activity-Understanding-General-Concepts-FINAL.pdf)
+    Concepts”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/POLSC211-Unit-1-Activity-Understanding-General-Concepts-FINAL.pdf)
     (PDF)  
         
      Instructions: Complete the attached activity. Check your answers
     against the Saylor Foundation’s [“Understanding General Concepts –
     Answer
-    Key”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/POLSC211-Unit-1-Activity-Understanding-General-Concepts-Answer-Key-FINAL.pdf)
+    Key”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/POLSC211-Unit-1-Activity-Understanding-General-Concepts-Answer-Key-FINAL.pdf)
     (PDF) when you are finished.  
         
      Completing this activity should take approximately 1 hour.
